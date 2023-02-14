@@ -1,0 +1,177 @@
+body {
+    background: #dfdfdf;
+    font-family: 'Raleway', sans-serif;
+    color: rgb(34, 34, 34);
+    margin: 0;
+    background-image: url(WhatsApp\ Image\ 2023-01-03\ at\ 12.30.53.jpeg);
+  }
+  
+  .container {
+    width: 900px;
+    margin: 0 auto;
+  }
+  
+  .profile {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .foto-principal {
+    width: 200px;
+
+  }
+  
+  h1 {
+    margin-top: 10px;
+    margin-bottom: 0;
+    letter-spacing: -1px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 40px;
+    color: #e3d47c;
+  }
+  
+  h2 {
+    margin-top: 0;
+    font-style: italic;
+    color: #e3d47c;
+    font-weight: 100;
+    letter-spacing: -1px;
+  }
+  
+  h4 {
+    margin-bottom: 5px;
+  }
+  
+  h5 {
+    margin-top: 0;
+    margin-bottom: 5px;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  p {
+    line-height: 25px;
+    margin-top: 20px;
+    color: #e3d47c;
+  }
+  
+  .social-links {
+    text-decoration: none;
+  }
+  
+  .social-icons {
+    width: 20px;
+  }
+  
+  .github {
+    margin: 0 15px 0 15px;
+  }
+  
+  .jobs-list {
+    list-style: none;
+    padding-left: 20px;
+  }
+  
+  .footer {
+    margin-top: 40px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  .contato{
+    color: #e3d47c;
+    text-decoration: none;
+    margin: 10px;
+    border: 2px solid #e3d47c;
+    border-radius:  10%;
+    padding: 10px 25px;
+    transition: 500ms;
+    
+   }
+
+   .contato:hover{
+    font-size: 25px
+   }
+
+   .con{
+    text-align: center;
+   }
+
+   .linkk{
+    text-align: center;
+    font-family: 'PT Sans Narrow', sans-serif;
+    margin-top: 5%;
+   }
+
+   .ins{
+    color: #e3d47c;
+    text-decoration: none;
+    border: 2px solid #e3d47c;
+    padding: 10px 25px;
+    border-radius: 15px;
+    transition: 500ms;
+    font-size: 25px;
+   }
+
+   .ins:hover{
+    font-size: 30px;
+   }
+
+   .foto{
+    width: 200px;
+    text-align: center;
+   }
+
+   .fotoo{
+    text-align: center;
+    margin-top: 5%;
+   }
+
+   .voltar{
+    margin-top: 2%;
+    margin-left: 2%;
+   }
+   
+   .voltaar{
+    text-decoration: none;
+    border: 2px solid #e3d47c;
+    padding: 15px;
+    border-radius: 13px;
+    color: #e3d47c;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size:11px;
+    transition: 500ms;
+   }
+
+   .voltaar:hover{
+    font-size: 15px;
+   }
+
+   .trabalhos{
+    margin-top: 5%;
+    text-align: center;
+   }
+
+   .tb{
+    width: 400px;
+    border-radius: 10px;
+    border:2px solid#e3d47c;
+    padding: 10px;
+    transition: 500ms;
+   }
+
+
+   .td{
+    width: 301px;
+    border-radius: 10px;
+    border:2px solid#e3d47c;
+    padding: 10px;
+    transition: 500ms;
+    margin-left: 11%;
+   }
+
+   .especializa{
+    text-align: center;
+   }
