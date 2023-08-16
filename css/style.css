@@ -3,9 +3,7 @@ body {
     font-family: 'Raleway', sans-serif;
     color: #e3d47c;
     margin: 0;
-    background-image: url(https://e0.pxfuel.com/wallpapers/442/247/desktop-wallpaper-black-background-papel-de-parede-com-fundo-preto-black-paisley.jpg);
-    background-repeat: no-repea;
-    background-size: contain;
+    background-color: rgb(0, 0, 0);
   }
   
   .container {
